@@ -6,7 +6,7 @@ The purpose of the analysis is to find out the temperature trends in Oahu in Jun
 
 › The average temperature in June is about 75F.
 
-› In June temperature was in between 64F and 85F. 
+› In June, temperature was in between 64F and 85F. 
 
 › 75 percent of the time temperature was under 77F. 
 
@@ -14,7 +14,7 @@ The purpose of the analysis is to find out the temperature trends in Oahu in Jun
 
 › The average temperature in December is about 71F.
 
-› In June temperature was in between 56F and 83F. 
+› In December temperature was in between 56F and 83F. 
 
 › 75 percent of the time temperature was under 74F. 
 
@@ -23,5 +23,6 @@ The purpose of the analysis is to find out the temperature trends in Oahu in Jun
 › Standard deviation in June was 3.25 and December 3.75. We can conclude that temperature in both months are not too volatile. 
 
 
-Summary:
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December.
+# Summary:
+
+Although looking at our analysis, we can conlude that surf and icecream business can be year-round, it may not be enough. We can run more queries to find out more attributes such as precipitation. We must also analyze other data such as number of travelers etc to be more precise. 
